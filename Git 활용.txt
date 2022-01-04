@@ -1,0 +1,12 @@
+1. 내가 만든, 수행한 프로젝트들을 관리하고 향후 협업시 잘활용하기!
+
+2. 1주차 핵심 키워드
+•버전 관리
+•git 초기화 (initialize, init)
+•add / staging
+•commit (커밋)
+•commit 내역(history)
+•push
+•pull
+•clone
+•tracking
